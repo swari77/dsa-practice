@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class datatype {
+public class Datatype {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
